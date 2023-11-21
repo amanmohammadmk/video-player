@@ -1,0 +1,68 @@
+{
+  "videos": [
+    {
+      "id": "1",
+      "caption": "Best of Sushin Shyam",
+      "thumbnail": "https://i.ytimg.com/vi/ChNFWUnikJI/maxresdefault.jpg",
+      "url": " https://www.youtube.com/embed/ccpVpcP8m44"
+    },
+    {
+      "id": "4",
+      "caption": "Best of Sushin Shyam",
+      "thumbnail": "https://i.ytimg.com/vi/ChNFWUnikJI/maxresdefault.jpg",
+      "url": " https://www.youtube.com/embed/hvqnG6VjqV0"
+    },
+    {
+      "id": "5",
+      "caption": "Romancham",
+      "thumbnail": "https://images.ottplay.com/images/a-still-from-romancham-349.jpg",
+      "url": " https://www.youtube.com/embed/LtwKO3jIAdk"
+    }
+  ],
+  "categories": [
+    {
+      "id": 1,
+      "name": "entertainment",
+      "allVideos": [
+        {
+          "id": "2",
+          "caption": "Romancham",
+          "thumbnail": "https://images.ottplay.com/images/a-still-from-romancham-349.jpg",
+          "url": " https://www.youtube.com/embed/LtwKO3jIAdk"
+        },
+        {
+          "id": "1",
+          "caption": "Best of Sushin Shyam",
+          "thumbnail": "https://i.ytimg.com/vi/ChNFWUnikJI/maxresdefault.jpg",
+          "url": " https://www.youtube.com/embed/ccpVpcP8m44"
+        }
+      ]
+    }
+  ],
+  "watchhistory": [
+    {
+      "id": 1,
+      "cardName": "Best of Sushin Shyam",
+      "url": " https://www.youtube.com/embed/ccpVpcP8m44",
+      "date": "14-08-2018"
+    },
+    {
+      "id": "6494512f-cb30-4156-b5ab-87c6ad3ece39",
+      "cardName": "Romancham",
+      "url": " https://www.youtube.com/embed/LtwKO3jIAdk",
+      "date": "2023-11-21T06:27:59.536Z"
+    },
+    {
+      "id": "9e35c761-1cce-4404-a34f-d9527a19a1f4",
+      "cardName": "Romancham",
+      "url": " https://www.youtube.com/embed/LtwKO3jIAdk",
+      "date": "2023-11-21T06:29:49.534Z"
+    },
+    {
+      "id": "5bb293d0-6857-4547-92b0-8c089957fce2",
+      "cardName": "Romancham",
+      "url": " https://www.youtube.com/embed/LtwKO3jIAdk",
+      "date": "2023-11-21T07:54:28.927Z"
+    }
+  ]
+}
